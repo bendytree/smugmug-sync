@@ -1,0 +1,21 @@
+{
+  "name": "smugmug",
+  "version": "0.0.0",
+  "description": "smuggy",
+  "contributors": [],
+  "bin": {},
+  "scripts": {},
+  "main": "app.js",
+  "keywords": [],
+  "dependencies": {
+    "request": "~2.27.0",
+    "walk": "~2.2.1",
+    "lodash": "~1.3.1",
+    "wrench": "~1.5.1",
+    "hash_file": "~0.1.0",
+    "MD5": "~1.1.0",
+    "async": "~0.2.9",
+    "mkdirp": "~0.3.5",
+    "ncp": "~0.4.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  DIR:     "/Users/joshinnorman/projects/Photos/SmugMug",
+  PREVIEW: false,
+  
+  BASEURL: "http://api.smugmug.com/services/api/json/1.3.0/",
+  OAUTH: { 
+    consumer_key: "",
+    consumer_secret: "",
+    token: "",
+    token_secret: ""
+  }
+};
